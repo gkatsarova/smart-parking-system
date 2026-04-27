@@ -9,3 +9,4 @@ android/app/google-services.json
 .gradle/
 build/
 *.iml
+node_modules/
