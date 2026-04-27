@@ -1,0 +1,11 @@
+# Secrets and environment variables
+.env
+arduinoide/secrets.h
+android/app/google-services.json
+
+# IDE and system files
+.DS_Store
+.idea/
+.gradle/
+build/
+*.iml
